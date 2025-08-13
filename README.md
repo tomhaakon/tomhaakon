@@ -2,10 +2,10 @@ Code Enthusiast
 
 
 <!-- Stats -->
-![GitHub stats](https://grs-tomhaakons-projects.vercel.app/api?username=tomhaakon&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![GitHub stats](https://grs-git-master-tomhaakons-projects.vercel.app/api?username=tomhaakon&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Languages](https://grs-tomhaakons-projects.vercel.app/api/top-langs/?username=tomhaakon&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://grs-git-master-tomhaakons-projects.vercel.app/api/top-langs/?username=tomhaakon&layout=compact&theme=radical&count_private=true)
 
 <!-- Activity Graph -->
 ![GitHub Activity Graph](YOUR_GAG_URL/graph?username=tomhaakon&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity%20Graph&count_private=true)
