@@ -8,6 +8,6 @@ Code Enthusiast
 ![Top Languages](grs-3jysaaq60-tomhaakons-projects.vercel.app/rcel.app/api/top-langs/?username=tomhaakon&layout=compact&theme=radical&count_private=true)
 
 <!-- Activity Graph -->
-![GitHub Activity Graph](YOUR_GAG_URL/graph?username=tomhaakon&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity%20Graph&count_private=true)
+![GitHub Activity Graph](https://gag-mu.vercel.app/graph?username=tomhaakon&theme=react-dark&area=true&hide_border=true&custom_title=My%20Activity%20Graph&count_private=true)
 
 
