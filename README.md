@@ -2,7 +2,7 @@ Code Enthusiast
 
 
 <!-- Stats -->
-![GitHub stats](https://grs-git-master-tomhaakons-projects.vercel.app/api?username=tomhaakon&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![GitHub stats](grs-3jysaaq60-tomhaakons-projects.vercel.app/api?username=tomhaakon&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 
 <!-- Top Languages -->
 ![Top Languages](https://grs-git-master-tomhaakons-projects.vercel.app/api/top-langs/?username=tomhaakon&layout=compact&theme=radical&count_private=true)
